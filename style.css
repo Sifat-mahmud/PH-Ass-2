@@ -267,6 +267,10 @@
     .hero-section .image-container {
       max-width: 100%;
     }
+    .hero-section .image-container img {
+        max-width: 250px;
+        height: auto;
+      }
   }
 
 
